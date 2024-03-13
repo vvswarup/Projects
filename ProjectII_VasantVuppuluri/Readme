@@ -1,0 +1,5 @@
+For this project, I was given a dataset showing cell-phone plan cancellations with a number of different input variables. My
+task was to select a set of models to use, train the models, and select the best model from the set that would best predict
+the data. After submitting my final model to the instructor, the instructor checked the predictive performance of the model using 
+a test dataset. The performance of each student's model was then ranked by its performance. My model (Gradient Boost Method) was 
+the winner out of twelve submissions. 
